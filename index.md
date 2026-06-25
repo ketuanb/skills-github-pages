@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to Ketuan my blog!
 ---
+# New Information on Display
